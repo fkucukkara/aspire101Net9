@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Aspire101/DesignTimeBuild/.dtbcache.v2
+/.vs/Aspire101/v17
+/.vs/Aspire101/FileContentIndex
+/Aspire101.ApiService/bin/Debug/net9.0
+/.vs/ProjectEvaluation
+/.vs/Aspire101/solutionOpened
+/Aspire101.ApiService/obj
+/Aspire101.AppHost/bin/Debug/net9.0
+/Aspire101.AppHost/obj
+/Aspire101.ServiceDefaults/bin/Debug/net9.0
+/Aspire101.ServiceDefaults/obj
+/Aspire101.Tests/bin/Debug/net9.0
+/Aspire101.Tests/obj
+/Aspire101.Web/bin/Debug/net9.0
+/Aspire101.Web/obj
+/.vs/Aspire101/config
