@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire101.AppHost", "Aspire101.AppHost\Aspire101.AppHost.csproj", "{507BE578-61FA-48D6-A068-8B78C048DD69}"
 EndProject
@@ -11,6 +11,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire101.Web", "Aspire101.Web\Aspire101.Web.csproj", "{CB83C2B7-6EC6-4DAC-9A1D-7C4A3F04399A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire101.Tests", "Aspire101.Tests\Aspire101.Tests.csproj", "{72518B29-F953-48E2-8DD5-6B21F259C19C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F65B392-B84B-462D-83FA-E86A0C47DB93}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
